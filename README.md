@@ -1,4 +1,4 @@
-this ist the Frontend 2050
+landing page template
 
 demo: https://mahmoudbitar02.github.io/Frontend-2050/
 
