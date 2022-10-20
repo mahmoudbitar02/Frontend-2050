@@ -1,0 +1,269 @@
+.nav-link{
+    font-family: 'Poppins', sans-serif;
+    color: white !important;
+    font-weight: 700;
+}
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+    color: white !important;
+    font-weight: 700;
+    margin-right: 50px;
+}
+.Home-text{
+    font-size: 72px;
+    line-height: 1.23;
+    color: white;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.nave{
+    margin-left: 150px;
+
+}
+
+.Hom{
+    margin-left: 150px;
+
+}
+.Home-Home{
+    margin-top: 200px;
+}
+
+.Paragraph{
+    font-size: 24px;
+    line-height: 1.4;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    
+
+}
+.my-btn{
+    padding: 12px 58px;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px solid #6c63ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 28px;
+    background-color: #6c63ff;
+    
+}
+.my-btn:hover{
+    background-color: white;
+    color: #6c63ff;
+}
+.my-img{
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 130px;
+    padding-bottom: 150px;
+}
+.about-img{
+    margin-top: 95px;
+    margin-left: -270px;
+
+}
+
+.about-text1{
+    font-size: 48px;
+    line-height: 1.25;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.about-text{
+    font-size: 24px;
+    line-height: 2;
+    font-weight: 700;
+    color: #6c63ff;
+    margin-bottom: 150px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mar-t{
+    margin-top: 150px;
+    
+}
+.about-txt{
+    font-size: 18px;
+    line-height: 1.55;
+    word-wrap: break-word;
+    word-break: break-all;
+    font-family: 'Poppins', sans-serif;
+    max-width: 89%;    
+    color: #666666;
+    font-weight: 400;
+    
+}
+
+.my-btn2{
+    color: #222222 !important;  
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+     
+}
+
+.txt1{
+    margin-left: -40px;
+
+}
+.service-txt{
+    font-size: 21px;
+    color: #222222;
+    font-weight: 700;
+}
+.svg1{
+    color: white;
+    background-color: #6c63ff;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.img-background{
+    background-color: rgb(243, 249, 251);
+    width: 624px;
+    height: 624px;
+    border-radius: 50%;
+
+}
+.img-service{
+    margin-top: -114px;
+}
+   
+.img-feature{
+    margin-left: -75px;
+}
+
+.con-feature{
+    padding-top: 80px;
+    margin-left: -42px
+}
+
+
+.check-icon{
+    width: 30px;
+    height: 30px;
+    color: #6c63ff;
+}
+
+.feature-li{
+    list-style-type: none;
+    margin-top: 75px;
+    padding-left: 5px;
+}
+.con-featur{
+    padding-top: 50px;
+}
+.product-txt{
+    text-align: center;
+    margin-left: -25px;
+}
+.parag-product{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #666666;
+
+}
+.px-6{
+    padding-right: 5rem!important;
+    padding-left: 5rem!important;
+
+}
+.produ{
+    box-shadow: 0px 3px 24px 3px rgb(7 7 7 / 4%);
+    border-bottom: 3px solid #6c63ff;
+}
+.fea-txt{
+    margin-top: 150px;
+    padding-left: 67px;
+}
+.about-txt2{
+    padding-left: 67px;
+    font-size: 18px;
+    line-height: 1.55;
+    word-wrap: break-word;
+    word-break: break-all;
+    font-family: 'Poppins', sans-serif;
+    max-width: 89%;    
+    color: #666666;
+    font-weight: 400;
+
+}
+.feat-img{
+    margin-top: 150px;
+    margin-left: 8%;
+    
+}
+.svg-feat{
+    list-style-type: none;
+}
+.feat-txt1{
+    display: flow-root;
+    margin-left: 90px;
+
+}
+.svg-3{
+    background-color: #6c63ff;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border-radius: 50%;
+    padding-inline: 12px;
+    margin-left: 32px;
+    padding-top: 12px;
+
+}
+.con-team{
+    padding-top: 100px;
+    
+}
+.con-team2{
+    display: flex;
+    justify-content: center;
+    margin-left: initial;
+}
+.img-4{
+    
+    margin-left: 20px;
+}
+
+.about-txt3{
+    font-size: 21px;
+    line-height: 1.6;
+    color: #666666;
+    font-weight: 400;
+}
+.img-blog{
+    width: 100%;
+   
+}
+.txt-blog{
+    background-color: white;
+    padding-left: 29px;
+    
+}
+.con-blog{
+    margin-right: 38px;
+}
+.txt-blog1{
+    color: #99999999;
+    font-size: 18px;
+}
+.blog-a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    
+
+}
+.img-blo:hover{
+    transform: scale(1.1);
+	transition: 0.3s ease-in-out;
+}
+
+.my-btn3{
+    text-decoration: none;
+}
