@@ -2,4 +2,4 @@ this ist the Frontend 2050
 
 demo: https://mahmoudbitar02.github.io/Frontend-2050/
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/mahmoudbitar02/Frontend-2050/blob/main/Screenshot.png)
